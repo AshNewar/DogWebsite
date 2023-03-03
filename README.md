@@ -1,2 +1,3 @@
-# DogWebsite
-Its an Website For Dog Lover To Explore;
+# Simon Game
+Have the Dare to play The Game
+

@@ -1,0 +1,184 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+.big-heading {
+    color: rgb(253, 248, 248);
+
+
+    font-family: "Montserrat";
+    font-size: 3.5rem;
+    line-height: 1.5;
+  }
+  
+
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: left;
+
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+}
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+  }
+.feature-title {
+    font-size: 1.5rem;
+  }
+.title-image {
+    width: 30%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 20%;
+    }
+.navbar{
+    padding: 0 0 4.5rem;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "Montserrat";
+    font-weight:bold;
+    font-size: 1.5rem; 
+
+}
+.testtext{
+    font-size: 2.8rem;
+    list-heigth: 2;
+
+}
+.pricetext{
+    font-weight: "Montserrat";
+    font-weight: bold;
+    font-size:3rem ;
+    line-height: 1.5;
+
+}
+
+#title .container-fluid {
+    padding: 3% 15% 7%;
+  }
+  
+p{
+    color: #5f5c5c;
+}
+#footer{
+    padding: 5% 15%;
+}
+
+#cta{
+    
+    background-color:#ff4c68;
+}
+.foot-title{
+    padding-top: 5%;
+    font-size: 50px;
+    color: #fff;
+    line-height: 1.5;
+}
+.social{
+    margin: 10px;
+}
+.mo{
+    font-size: 1rem;
+}
+/* #yo{
+    /* font: size 50px;; */
+    /* font-size: 30px;
+} */ 
+.container-fluid{
+    padding: 3% 16%;
+
+}
+.good{
+    margin: 0 auto;
+}
+.go{
+    text-align: center;
+    padding: 4% 8%;
+
+
+}
+.feature-title {
+    font-size: 1.5rem;
+  }
+
+#features{
+    background-color: #fff;
+    padding: 7% 15%;
+    position: relative;
+    z-index: 4;
+}
+
+/* #heart{
+    width: 200%;
+} */
+
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+.down{
+    margin:5% 3% 5% 0;
+
+}
+.icon{
+    color:#ef8172  ;
+    margin: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#testimonials{
+    /* position: static; */
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+.dog{
+    width: 15%;
+    margin: 20px;
+    border-radius: 60%;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+.carousel-item{
+    padding: 7% 15%;
+
+
+}
+.pres{
+    width:15%;
+    margin: 20px 30px 50px;
+
+}
+#pricing{
+    padding: 100px; 
+    text-align: center;
+
+}
+.pri{
+    padding: 3% 2%;
+}
+@media(max-width:990px){
+    
+    #title{
+        text-align: center;
+    }
+    .title-image{
+        width: 60%;
+        transform: rotate(0);
+        position: static;
+    }
+}
